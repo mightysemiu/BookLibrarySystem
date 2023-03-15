@@ -1,5 +1,5 @@
 const express = require("express");
-const dotenv = require("dotenv");
+const dotenv = require(".env");
 
 const DbConnection = require("./databaseConnection");
 
