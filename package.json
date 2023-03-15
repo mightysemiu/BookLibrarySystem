@@ -1,5 +1,5 @@
 {
-  "name": "j0123p3-build",
+  "name": "BookLibrarySystem",
   "version": "1.0.0",
   "description": "Library System",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rohandt0002/J0123P3-Build.git"
+    "url": "git+https://github.com/mightysemiu/BookLibrarySystem.git"
   },
   "author": "rohan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rohandt0002/J0123P3-Build/issues"
+    "url": "https://github.com/mightysemiu/BookLibrarySystem/issues"
   },
-  "homepage": "https://github.com/rohandt0002/J0123P3-Build#readme",
+  "homepage": "https://github.com/mightysemiu/BookLibrarySystem#readme",
   "devDependencies": {
     "nodemon": "^2.0.21"
   },
